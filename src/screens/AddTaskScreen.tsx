@@ -49,6 +49,13 @@ const AddTaskScreen = () => {
         };
 
         addTask(newTask);
+        Toast.show({
+            type: 'success',
+            text1: 'Success',
+            text2: `Task has been added successfully`,
+            position: 'bottom',
+            visibilityTime: 3000,
+        });
         navigation.goBack();
     };
 
