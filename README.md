@@ -4,6 +4,10 @@ A full-featured task management application built with React Native, TypeScript,
 
 ## 🎥 Demo
 
+<img width="580" height="913" alt="image" src="https://github.com/user-attachments/assets/8653fc82-b909-4b0b-833b-28dd9bacbcd8" />
+<img width="564" height="916" alt="image" src="https://github.com/user-attachments/assets/6d022eac-e0a1-40e9-8f25-1247f54d6d9e" />
+<img width="568" height="919" alt="image" src="https://github.com/user-attachments/assets/58599c95-5fb5-4619-ba6d-6c117e8c2e1f" />
+<img width="572" height="926" alt="image" src="https://github.com/user-attachments/assets/fa5fd464-1423-400d-8459-57f43858e680" />
 
 
 
